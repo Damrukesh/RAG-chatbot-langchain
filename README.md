@@ -1,1 +1,1 @@
-# RAG-chatbot-llama-index
+# RAG-chatbot-langchain
